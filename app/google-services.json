@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346617096055",
+    "firebase_url": "https://laba-amst-firebase-default-rtdb.firebaseio.com",
+    "project_id": "laba-amst-firebase",
+    "storage_bucket": "laba-amst-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346617096055:android:5279971b9bfebe52592372",
+        "android_client_info": {
+          "package_name": "com.example.examenamst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346617096055-v6e3tr648blcfcho6g1hlvpar9k64b6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examenamst",
+            "certificate_hash": "5eb70c39211ab05d7332bf4fac70f161761847cb"
+          }
+        },
+        {
+          "client_id": "346617096055-1phiomgo2lquosbggu98j0rh6kqgiqas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7nuqDsnk1BceEjW0BsuZ8te2YVCabKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346617096055-1phiomgo2lquosbggu98j0rh6kqgiqas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
